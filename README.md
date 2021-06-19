@@ -5,7 +5,9 @@
 - 📫 How to reach me 
 
 Phone: (647)-204-8339
-E-mail: nicholasnieto35@gmail.com\n
+
+E-mail: nicholasnieto35@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/nicholas-nieto/
 
 <!---
